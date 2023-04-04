@@ -1,0 +1,17 @@
+Functional Programming:
+  Fungsional programming adalah paradigma pemrograman yang berfokus pada fungsi dan operasi matematis. Fungsional programming menekankan pemakaian fungsi sebagai
+objek utama dalam memecahkan masalah. Fungsional Programming (FP) adalah paradigma pemrograman yang berfokus pada fungsi. Konsep penting dalam fungsional programming
+adalah fungsi yang tidak dapat diubah dan tidak memiliki efek samping (side effect),yang disebut sebagai pure function. Pada FP, pemrograman dilakukan dengan cara
+memandang setiap fungsi sebagai objek yang independen dan mampu beroperasi tanpa efek samping ke objek lainnya. Fungsi dalam FP juga biasanya bersifat immutable, artinya
+setelah sebuah nilai diberikan, nilai tersebut tidak dapat diubah. Functional programming berfokus pada pemrosesan data yang tidak berubah, fungsi murni, dan penggunaan
+ekspresi lambda. Dalam functional programming, program dibangun dari fungsi-fungsi kecil yang dapat digabungkan untuk membentuk program yang lebih besar. Fungsi-fungsi 
+ini biasanya tidak memodifikasi variabel atau objek di luar lingkup mereka, dan tidak ada side effect yang tidak diinginkan.
+
+Object Oriented Programming:
+  Object-oriented programming (OOP) adalah paradigma pemrograman yang berfokus pada objek sebagai unit utama pemrograman. Objek memiliki atribut dan metode yang 
+menjelaskan perilaku dan sifat dari objek tersebut. Konsep penting dalam OOP adalah inheritance, encapsulation, dan polymorphism. pada OOP, program dibangun dengan cara
+memandang sebuah program sebagai kumpulan dari objek yang saling berinteraksi. Objek-objek tersebut memiliki properti dan metode yang terkait, dan objek-objek tersebut 
+juga memiliki kemampuan untuk mengubah properti dan melakukan operasi pada objek lainnya. OOP fokus pada objek dan kelas sebagai unit dasar dalam program. Program yang 
+dibangun dengan OOP terdiri dari objek-objek yang berinteraksi satu sama lain melalui metode. Dalam OOP, objek dapat memiliki atribut dan metode, dan dapat diturunkan dari
+kelas lain. Object-oriented programming (OOP) adalah paradigma pemrograman yang berfokus pada objek sebagai unit utama program, yang terdiri dari data dan metode (fungsi)
+yang dapat memanipulasi data tersebut. Dalam OOP, objek dibuat dari kelas, yang mendefinisikan jenis data dan metodenya.
