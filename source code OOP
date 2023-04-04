@@ -1,0 +1,16 @@
+# Contoh pembuatan class
+class cat:
+  def __init__(self, name, age, color):
+    self.name = name
+    self.age = age
+    self.color = color
+
+  def bark(self):
+    print("Meow!")
+
+# Contoh membuat objek dari class Dog
+my_cat = Cat("Pai", 3, "mix black, orange, and white")
+print(my_cat.name) # Pai
+print(my_cat.age) # 3
+print(my_cat.color) # 3
+my_cat.bark() # Meow!
